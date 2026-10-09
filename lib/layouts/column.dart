@@ -13,7 +13,7 @@ class ColumnLayout extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children : [
         Text("Hello word"),
-        Text("coma mierda")
+        Text("app funcionando")
       ]
       )
     );
