@@ -12,11 +12,7 @@ class ImageExample extends StatelessWidget {
           width: 200,
           height: 200,
         ),
-        Image.asset(
-          'assets/images/images.jpg',
-          width: 300,
-          height: 300,
-        ),
+    
       ],
     );
   }
